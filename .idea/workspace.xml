@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba75de77-9539-46ab-8d45-b8fcb3f9f519" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dXq5rGCTvwE2RR0cs0lVxbL45c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.ClientUserRest">
+    <configuration name="ClientUserRest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fr.ensim.partyNow.APIRest.Client.ClientUserRest" />
+      <module name="APIRest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fr.ensim.partyNow.APIRest.Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="APIRest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="APIRest" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="APIRest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fr.ensim.partyNow.APIRest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fr.ensim.partyNow.APIRest.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TpNoteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="APIRest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fr.ensim.archiLog.TpNote.TpNoteApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientUserRest" />
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba75de77-9539-46ab-8d45-b8fcb3f9f519" name="Default Changelist" comment="" />
+      <created>1592581604178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592581604178</updated>
+      <workItem from="1592581628142" duration="12351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="45" key="#com.intellij.ide.util.MemberChooser" timestamp="1592649367351">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="45" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1592649367351" />
+    <state width="1323" height="175" key="GridCell.Tab.0.bottom" timestamp="1592650832367">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1592650832367" />
+    <state width="1323" height="175" key="GridCell.Tab.0.center" timestamp="1592650832367">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1592650832367" />
+    <state width="1323" height="175" key="GridCell.Tab.0.left" timestamp="1592650832366">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1592650832366" />
+    <state width="1323" height="175" key="GridCell.Tab.0.right" timestamp="1592650832367">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1592650832367" />
+    <state width="1323" height="175" key="GridCell.Tab.1.bottom" timestamp="1592650832367">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1592650832367" />
+    <state width="1323" height="175" key="GridCell.Tab.1.center" timestamp="1592650832367">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1592650832367" />
+    <state width="1323" height="175" key="GridCell.Tab.1.left" timestamp="1592650832367">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1592650832367" />
+    <state width="1323" height="175" key="GridCell.Tab.1.right" timestamp="1592650832367">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1592650832367" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1592650805981">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1592650805981" />
+  </component>
+</project>
